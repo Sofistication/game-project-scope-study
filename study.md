@@ -15,7 +15,7 @@ class.
 Submit detailed answers to the following in this file via a pull request:
 
 -   A wireframe of what your game project will look like.
-![Wireframes](https://drive.google.com/open?id=0B0lo8UTaLJRBQnlSWE5rdG85VVk "Current Wireframe draft")
+![Wireframes](http://imgur.com/zWCGR3C "Current Wireframe draft")
 
 -   The data structure you plan to use.
 ```md
